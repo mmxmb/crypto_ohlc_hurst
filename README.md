@@ -1,5 +1,6 @@
 ## Distributions of Hurst exponent values in cryptocurrency trading close price time series samples
 [View the HTML version](https://lawnboymax.github.io/portfolio/hurst_distribution/hurst_distribution.html)
+
 Source Jupyter notebook and HTML version.
 All data taken from [Poloniex API](https://poloniex.com/support/api/) and [Kaggle: Bitcoin Historical Data](https://www.kaggle.com/mczielinski/bitcoin-historical-data).
 
